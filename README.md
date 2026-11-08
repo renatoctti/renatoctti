@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Renato%20Cazzoletti&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full-stack%20%26%20AI%20engineer&descAlignY=60&descSize=18" alt="Renato Cazzoletti, Full-stack and AI engineer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Renato%20Cazzoletti&fontColor=ffffff&fontSize=38" alt="Renato Cazzoletti" width="100%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-renato--cazzoletti-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-cazzoletti)
-[![Email](https://img.shields.io/badge/Email-renato.cazzoletti7%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:renato.cazzoletti7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-2c5364?logo=vercel&logoColor=white)](https://portfolio-jet-nine-lttxmn09s8.vercel.app)
-![Location](https://img.shields.io/badge/Based%20in-Brazil%20(UTC--3)-009c3b)
-![Open to](https://img.shields.io/badge/Open%20to-remote%20roles-brightgreen)
+**Full-stack & AI engineer** · Brazil (UTC-3) · open to remote roles
+
+[LinkedIn](https://www.linkedin.com/in/renato-cazzoletti) · [Email](mailto:renato.cazzoletti7@gmail.com) · [Portfolio](https://portfolio-jet-nine-lttxmn09s8.vercel.app)
 
 </div>
 
