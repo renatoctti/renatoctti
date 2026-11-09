@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Renato%20Cazzoletti&fontColor=ffffff&fontSize=38" alt="Renato Cazzoletti" width="100%">
 
-**Full-stack & AI engineer** · Brazil (UTC-3) · open to remote roles
+**Full-stack & AI engineer** · Brazil (UTC-3) 
 
 [LinkedIn](https://www.linkedin.com/in/renato-cazzoletti) · [Email](mailto:renato.cazzoletti7@gmail.com) · [Portfolio](https://portfolio-jet-nine-lttxmn09s8.vercel.app)
 
